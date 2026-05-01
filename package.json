@@ -7,16 +7,16 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "next": "15.0.0",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "@vercel/postgres": "latest",
-    "lucide-react": "latest",
-    "framer-motion": "latest",
-    "clsx": "latest",
-    "tailwind-merge": "latest"
-  },
+"dependencies": {
+  "next": "15.0.0",
+  "react": "18.3.1",
+  "react-dom": "18.3.1",
+  "@vercel/postgres": "latest",
+  "lucide-react": "latest",
+  "framer-motion": "latest",
+  "clsx": "latest",
+  "tailwind-merge": "latest"
+},
   "devDependencies": {
     "typescript": "latest",
     "@types/node": "latest",
