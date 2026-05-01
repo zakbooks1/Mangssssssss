@@ -5,17 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "lucide-react": "latest",
+    "next": "15.0.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "@vercel/postgres": "latest",
-    "pusher": "latest",
-    "pusher-js": "latest",
+    "lucide-react": "latest",
     "framer-motion": "latest",
     "clsx": "latest",
     "tailwind-merge": "latest"
